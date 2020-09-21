@@ -1,7 +1,6 @@
 # Simulating different snake locomotion such as lateral undulation, sidewinding, etc using knowledge of forward kinematics and DH parameters
 
-The project was aimed to understand snake gaits. Modelling the basic snake kinematic model using DH parameterization and simulate various 
-snake locomotion. 
+The project was aimed to understand snake gaits. Modelling the basic snake kinematic model using DH parameterization and simulate it. 
 ![gif of model](SNAKE-LOCOMOTION.gif?raw=True "Snake")
 
 
